@@ -1,3 +1,3 @@
-# BaggingRCNN
+# Bagging R-CNN
 
 Code will be released~~~~~
