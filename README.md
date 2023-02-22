@@ -40,3 +40,10 @@ CUDA_VISIBLE_DEVICES=0 PORT=29500 ./tools/dist_train.sh ${CONFIG_FILE} 1
 
 Our method is simple and effiient, which is motivated by Cascade RCNN and Ensemble learning. If you want to understand our method directly and have used the mmdetection, you can read the file.
 
+## Acknowledgements
+
+Thanks to Pinhao Song「AKA.Shenzhen Pilot/Fushanling car god」. His master's research field is underwater object detection.
+This is his academic homepage. https://scholar.google.com.hk/citations?user=pgD4ZGgAAAAJ&hl=zh-CN&oi=sra
+This is his github homepage. https://github.com/mousecpn
+
+
