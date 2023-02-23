@@ -47,4 +47,4 @@ Our method is simple and effiient, which is motivated by Cascade RCNN and Ensemb
 🐭 Thanks to Pinhao Song「AKA.Shenzhen Pilot」. His master's research field is underwater object detection. 
 [Google Research](https://scholar.google.com.hk/citations?user=pgD4ZGgAAAAJ&hl=zh-CN&oi=sra) | [Github](https://github.com/mousecpn)
 
-
+🏳️ This work is also the advance work of [Boosting R-CNN](https://www.sciencedirect.com/science/article/pii/S0925231223001200), which is accepted by Neurocomputing 2023.
