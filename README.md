@@ -43,7 +43,6 @@ Our method is simple and effiient, which is motivated by Cascade RCNN and Ensemb
 ## Acknowledgements
 
 🐭 Thanks to Pinhao Song「AKA.Shenzhen Pilot」. His master's research field is underwater object detection. 
-
 [Google Research](https://scholar.google.com.hk/citations?user=pgD4ZGgAAAAJ&hl=zh-CN&oi=sra) | [Github](https://github.com/mousecpn)
 
 
