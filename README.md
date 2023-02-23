@@ -28,12 +28,12 @@ We also prepare the corresponding data config file of TJU-DHD-traffic,and you ca
 
 ## Get start
 
-1. Use single GPU
+1. Use several GPUs
 ```
 CUDA_VISIBLE_DEVICES=0,1,2,3 PORT=29500 ./tools/dist_train.sh ${CONFIG_FILE} 4
 ```
 
-2. Use several GPUs
+2. Use single GPU
 ```
 CUDA_VISIBLE_DEVICES=0 PORT=29500 ./tools/dist_train.sh ${CONFIG_FILE} 1
 ```
